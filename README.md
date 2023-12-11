@@ -6,6 +6,8 @@ The repo contains a couple of coding tasks ranging from easy to hard.
 - nodejs 20+ (but any other JS runtime is fine as well)
 - git
 
+The use of other code quality tools is encouraged.
+
 ## Structure
 
 The directory [tasks](./tasks) contains the tasks. Each task has its own directory with corresponding number.
@@ -21,8 +23,8 @@ Feel free to change any of given files.
 
 ## Goal
 
-Make sure to pass existing tests and provide clear reasoning for the solution.
-The use of code quality tools is encouraged.
+Make sure to pass existing tests with `npm test` and provide clear reasoning for the solution.
+
 
 ## Tips
 

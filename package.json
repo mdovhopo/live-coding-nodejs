@@ -5,7 +5,7 @@
   "description": "The repo contains a couple of coding tasks ranging from easy to hard.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "keywords": [],
   "author": "",
