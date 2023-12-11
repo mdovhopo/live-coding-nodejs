@@ -1,0 +1,13 @@
+{
+  "name": "live-coding-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The repo contains a couple of coding tasks ranging from easy to hard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
