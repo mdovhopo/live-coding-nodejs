@@ -15,6 +15,7 @@ It is expected that tasks will be done in order.
 Each directory contains:
 - `main.js` - the solution is expected here
 - `main.test.js` - some basic tests to check the solution
+- `README.md` - the task description
 
 Feel free to change any of given files.
 
