@@ -1,7 +1,3 @@
-// TODO: test this code in main.test.js file
-// make sure to cover all possible cases and uncover potential
-// improvement to the code
-
 export class BankAccount {
   constructor(accountHolder, initialBalance) {
     this.accountHolder = accountHolder;
